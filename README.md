@@ -1,2 +1,3 @@
 # shop_windows
-start project
+- start project
+- make develop branch
